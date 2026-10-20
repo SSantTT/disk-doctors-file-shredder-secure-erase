@@ -1,0 +1,7 @@
+src/**/*.rs linguist-detectable
+public/* linguist-vendored
+
+*.json linguist-detectable=false
+Cargo.lock linguist-generated
+
+*.woff2 binary
